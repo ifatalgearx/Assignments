@@ -1,0 +1,59 @@
+body{
+	background-image:linear-gradient(to bottom, #58AEE5, #FFFFFF, #58AEE5);
+	background-repeat:no-repeat;
+	font-size:25px;
+}
+h1{
+	color:white;
+	font-size:50px;
+	padding-left:20px;
+	padding-top:40px;
+}
+h2{
+	font-size:40px;
+	color:#57C5E9;
+}
+header{
+	height:100px;
+	background-image:url("images/sunset.jpg");
+	background-size:100% 100px;
+	background-repeat:no-repeat;
+}
+nav{
+	font-weight:bold;
+	background-color:#BCEDFB;
+	font-size:30px;
+	font-family:arial;
+	padding:5px;
+}
+.nav{
+	padding-left:20px;
+	padding-right:20px;
+}
+dt{
+	font-size:30px;
+	font-weight:bold;
+}
+#content{
+	font-family:arial;
+}
+main{
+	padding-left:20px;
+	padding-right:20px;
+}
+footer{
+	padding-top:50px;
+	padding-bottom:10px;
+	font-family:arial;
+	text-align:center;
+	font-size:15px;
+	font-weight: lighter;
+}
+#wrapContent{
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow:5px 5px;
+	background-color:#FFFFFF;
+	margin-bottom:50px;
+}
